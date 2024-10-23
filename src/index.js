@@ -1,4 +1,4 @@
-import featureImage from './feature.svg';
+import featureImage from './feature.png';
 import iconImage from './icon.svg';
 
 export default {
