@@ -7,7 +7,7 @@ export default {
   description: 'Bring words to life.',
   image: featureImage,
   icon: iconImage,
-  tags: ['blocks', 'arcade', 'display'],
+  tags: ['arcade'],
 
   // l10n
   translations: {
